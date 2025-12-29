@@ -50,8 +50,30 @@ Im constantly learning, reading and keeping up to date with the Cybersecurity ne
 
 ## Projects 
 - Access control 
+[Access-control-worksheet.docx](https://github.com/user-attachments/files/24371639/Access-control-worksheet.docx)
+[Accounting-exercise.xlsx](https://github.com/user-attachments/files/24371640/Accounting-exercise.xlsx)
+
+
+- Data leak worksheet 
+[PASTA-worksheet.docx](https://github.com/user-attachments/files/24371622/PASTA-worksheet.docx)
+
+-Risk register
+[Risk-register.docx](https://github.com/user-attachments/files/24371637/Risk-register.docx)
+
 - Vulnerability assesment report
+[Vulnerability-assessment-report.docx](https://github.com/user-attachments/files/24371659/Vulnerability-assessment-report.docx)
+
 - Controls and compliance checklist
+[Controls and compliance checklist.docx](https://github.com/user-attachments/files/24371666/Controls.and.compliance.checklist.docx)
+[Control categories.docx](https://github.com/user-attachments/files/24371668/Control.categories.docx)
+[Botium toys scope, goals, and risk report.docx](https://github.com/user-attachments/files/24371669/Botium.toys.scope.goals.and.risk.report.docx)
+
 - Incident report analysis 
+[incident-report-analysis completed.docx](https://github.com/user-attachments/files/24371672/incident-report-analysis.completed.docx)
+[Applying-the-NIST-CSF-.docx](https://github.com/user-attachments/files/24371676/Applying-the-NIST-CSF-.docx)
+
 - File permissions in linux
+[File permissions in Linux .docx](https://github.com/user-attachments/files/24371684/File.permissions.in.Linux.docx)
+
 - Applying filters to SQL Queries
+[Apply filters to SQL queries.docx](https://github.com/user-attachments/files/24371688/Apply.filters.to.SQL.queries.docx)
