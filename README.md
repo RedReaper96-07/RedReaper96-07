@@ -57,7 +57,7 @@ Im constantly learning, reading and keeping up to date with the Cybersecurity ne
 - Data leak worksheet 
 [PASTA-worksheet.docx](https://github.com/user-attachments/files/24371622/PASTA-worksheet.docx)
 
--Risk register
+- Risk register
 [Risk-register.docx](https://github.com/user-attachments/files/24371637/Risk-register.docx)
 
 - Vulnerability assesment report
