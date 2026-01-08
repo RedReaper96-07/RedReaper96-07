@@ -49,31 +49,20 @@ Im constantly learning, reading and keeping up to date with the Cybersecurity ne
 ---
 
 ## Projects 
-- Access control 
-[Access-control-worksheet.docx](https://github.com/user-attachments/files/24371639/Access-control-worksheet.docx)
-[Accounting-exercise.xlsx](https://github.com/user-attachments/files/24371640/Accounting-exercise.xlsx)
-
-
-- Data leak worksheet 
-[PASTA-worksheet.docx](https://github.com/user-attachments/files/24371622/PASTA-worksheet.docx)
-
-- Risk register
-[Risk-register.docx](https://github.com/user-attachments/files/24371637/Risk-register.docx)
-
-- Vulnerability assesment report
-[Vulnerability-assessment-report.docx](https://github.com/user-attachments/files/24371659/Vulnerability-assessment-report.docx)
-
-- Controls and compliance checklist
-[Controls and compliance checklist.docx](https://github.com/user-attachments/files/24371666/Controls.and.compliance.checklist.docx)
-[Control categories.docx](https://github.com/user-attachments/files/24371668/Control.categories.docx)
-[Botium toys scope, goals, and risk report.docx](https://github.com/user-attachments/files/24371669/Botium.toys.scope.goals.and.risk.report.docx)
-
-- Incident report analysis 
-[incident-report-analysis completed.docx](https://github.com/user-attachments/files/24371672/incident-report-analysis.completed.docx)
-[Applying-the-NIST-CSF-.docx](https://github.com/user-attachments/files/24371676/Applying-the-NIST-CSF-.docx)
-
-- File permissions in linux
-[File permissions in Linux .docx](https://github.com/user-attachments/files/24371684/File.permissions.in.Linux.docx)
-
-- Applying filters to SQL Queries
-[Apply filters to SQL queries.docx](https://github.com/user-attachments/files/24371688/Apply.filters.to.SQL.queries.docx)
+- [Access control](https://docs.google.com/document/d/1CJX96khX-M9bwfKIKwMeddwZrvF8Lkma/edit#heading=h.f6ux3j7x0b73)
+  
+- [Data leak worksheet](https://docs.google.com/document/d/1HKm0hCLGShgrj3jEYITygHXChSmoxWL0/edit#heading=h.49o18usgmf4u)
+  
+- [Risk Register](https://docs.google.com/document/d/1Mh_bmXmQ9L0pFocufjpUVps4TTdhiFNs/edit)
+  
+- [Vulnerability assessment report](https://docs.google.com/document/d/1CJX96khX-M9bwfKIKwMeddwZrvF8Lkma/edit#heading=h.f6ux3j7x0b73)
+  
+- [Controls and compliance checklist](https://docs.google.com/document/d/12HgjSpYLD4LsdbDXTRi7wtF-9ywLUBoe/edit#heading=h.xjsnynld9pmm)
+  
+- [Incident report analysis](https://docs.google.com/document/d/1dYayDPr7fGF7sme-aZJt74fQpfPIueWq/edit)
+  
+- [File permissions in Linux](https://docs.google.com/document/d/1txU5I16Y1lCwIc3m_LgE5g_G3k1WJBlO/edit#heading=h.rpmxbmkenzxb)
+  
+- [Applying filters to SQL Queries](https://docs.google.com/document/d/1__bozz54GXh130CY133seDT_WiVOEgJ2/edit#heading=h.g5yg65ewm4sj)
+  
+- [Handler's journal](https://docs.google.com/document/d/1IultsVebP092oXp0lpgpmqRAH-8PjLe9/edit)
